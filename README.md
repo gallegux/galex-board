@@ -2,6 +2,6 @@
 
 <img src="images/torcida.png" width="80%" />
 
-English version [english](readme_english.md)
+[English version](readme_english.md)
 
-Versión en español [spanish](readme_spanish.md) 
+[Versión en español](readme_spanish.md) 

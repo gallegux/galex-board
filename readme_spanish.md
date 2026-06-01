@@ -226,9 +226,13 @@ Usar el slot 255 para referirse a la LOWER ROM.
 ### Comandos del módulo WIFI
 
 **|PING,"ip-o-hostname"**  hace un ping
+
 **|WLAN**  busca las WLAN a las que se puede conectar
+
 **|WIFI,"ssid","contraseña"**  configuracion wifi con DHCP
+
 **|WIFI,"ssid","contraseña","ip","mascara","gw","dns1","dns2"**  config wifi IP estática
+
 **|WGET,"url","fichero"**  descargar un fichero de internet
 
 
