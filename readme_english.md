@@ -246,3 +246,12 @@ Bytes will be sent and received using OUT and IN instructions.
 ### Analog Sensor Commands
 
 **|ADC,sensor-num**  gets an 8-bit value from the selected ADC (sensor=1..3)
+
+
+## Schematic, components and routing
+
+[Schematic](esquema.pdf)
+
+[BOM](BOM.pdf)
+
+[Routing](placa.pdf)

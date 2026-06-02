@@ -245,3 +245,12 @@ Con instrucciones OUT e IN se enviarán y recibirán los bytes.
 ### Comandos de los sensores analógicos
 
 **|ADC,num-sensor**  obtener un valor de 8 bitns del ADC seleccionado (sensor=1..3)
+
+
+## Esquema, componentes y ruteado
+
+[Esquema](esquema.pdf)
+
+[BOM](BOM.pdf)
+
+[Ruteado](placa.pdf)
